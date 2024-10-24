@@ -1,1 +1,1 @@
-//  Add javaScript file
+//  Add javaScript file - add button
